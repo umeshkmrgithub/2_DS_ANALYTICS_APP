@@ -1,3 +1,20 @@
+Phonepe-Pulse-Data-Visualization-and-Exploration
+
+Problem Statement
+
+Retrieve data from the Phonepe Pulse GitHub repository, perform data transformation and cleansing,insert it into a MySQL database, and develop a live geo-visualization dashboard using Streamlit and Plotly in Python.The dashboard will present the data interactively and aesthetically, featuring a minimum of 10 diverse dropdown optionsfor users to select various facts and figures. The solution aims to be secure, efficient, and user-friendly, offering valuable insights and information about the data within the Phonepe Pulse GitHub repository.
+
+Technology Stack Used:
+
+Python
+MySQL
+Streamlit
+colab
+Github Cloning
+Geo Visualisation
+
+
+
 Guvi CAPSTON Project Phonepe - Pulse-Data-Visualization-and-Exploration The main aim of this project is to develop a solution that extracts, migrate, and visualizes data from the Phonepe Pulse GitHub repository. In this Project he process involves:
 
 Data Extraction: Clone the repository and collect data by script.
